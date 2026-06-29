@@ -1,0 +1,7 @@
+out/
+out_all/
+out_cjk/
+**/_verify/
+*.pyc
+__pycache__/
+.venv/

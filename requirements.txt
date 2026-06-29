@@ -1,0 +1,9 @@
+faker>=30.0.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+pdf2image>=1.17.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+# System deps (not pip):
+#   poppler-utils   (pdf2image backend)   ->  apt-get install poppler-utils
+#   fonts-noto*     (multilingual glyphs) ->  apt-get install fonts-noto fonts-noto-cjk
